@@ -1,5 +1,32 @@
 # Changelog
 
+## [2.0.0](https://github.com/Poikilos/cspell-dicts/compare/@cspell/aoo-mozilla-en-dict@1.0.3...@cspell/aoo-mozilla-en-dict@2.0.0) (2025-06-27)
+
+
+### ⚠ BREAKING CHANGES
+
+* split legacy words from en_GB ([#4349](https://github.com/Poikilos/cspell-dicts/issues/4349))
+
+### Features
+
+* split legacy words from en_GB ([#4349](https://github.com/Poikilos/cspell-dicts/issues/4349)) ([b13f803](https://github.com/Poikilos/cspell-dicts/commit/b13f8035d03d5491cd8fe618cab532e4ff58ffd2))
+
+
+### Updates and Bug Fixes
+
+* Workflow Bot -- Build Dictionaries ([#4406](https://github.com/Poikilos/cspell-dicts/issues/4406)) ([7e02e36](https://github.com/Poikilos/cspell-dicts/commit/7e02e36dd735dd9d28639f230301cd057715873d))
+* Workflow Bot -- Update Dictionaries ([#4462](https://github.com/Poikilos/cspell-dicts/issues/4462)) ([37ab5c4](https://github.com/Poikilos/cspell-dicts/commit/37ab5c4d2759f9f76818c45b052955428a8f4635))
+
+
+### Documentation
+
+* add information about aoo-mozilla-en licenses ([#4583](https://github.com/Poikilos/cspell-dicts/issues/4583)) ([088f6e1](https://github.com/Poikilos/cspell-dicts/commit/088f6e1c36e8b1d54ebe89c051d4a4e6089cbe17))
+
+
+### Code Refactoring
+
+* consolidate English shared `-ise` words into `shared-additional-words-ise.txt` ([#4397](https://github.com/Poikilos/cspell-dicts/issues/4397)) ([36a1d61](https://github.com/Poikilos/cspell-dicts/commit/36a1d612042a7e1d707a1c10c6c59c948fb43034))
+
 ## [1.0.3](https://github.com/streetsidesoftware/cspell-dicts/compare/@cspell/aoo-mozilla-en-dict@1.0.2...@cspell/aoo-mozilla-en-dict@1.0.3) (2025-06-26)
 
 
